@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "peace-against-war.aternos.me",
+    "port": 30005,
     "version": "",
     "try-creative": false
   },
